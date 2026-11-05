@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 046ebded99358804ba4a1be7d983edc4
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: b987734e031863541984a1afb9163905, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 532f4ded4d7776543a7dc30bf33e7dc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: eecb54c3c7507d9469097d097226de1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.016
+    second: {fileID: 2100000, guid: 29f82a53cf0e1f14ca6001dcd2851982, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back cover
+    second: {fileID: 2100000, guid: 2575a284feba3ca4e8f0f177f6bc91b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back cover holder
+    second: {fileID: 2100000, guid: c0953734c3548a849a4073d389cacfab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back cover holder.2
+    second: {fileID: 2100000, guid: 74eed0b44c3d131498691be35a041aba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back gate
+    second: {fileID: 2100000, guid: 9c0603264b6e8974c9650fc461f22c08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back gate arc
+    second: {fileID: 2100000, guid: b0eea2d11f78e064b967155ad6196387, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back gate arc.support
+    second: {fileID: 2100000, guid: 7319f20274a9c684d97d926f56d1b33e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back gate holders
+    second: {fileID: 2100000, guid: 31162f0abc641454dae661a28abd4dbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back gate holders 2
+    second: {fileID: 2100000, guid: 7e7ce210c7e24084da4448b030949b82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back hand _
+    second: {fileID: 2100000, guid: 64315bc26abde7941b5756921985aa06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back handel
+    second: {fileID: 2100000, guid: 88891e750f31b514bae9c9ed159b1ecb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: big cy
+    second: {fileID: 2100000, guid: c7c18e6ef624b0247ad3ee2b2d06612b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 79a910bed2c839344ae240221cc857a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body cyc
+    second: {fileID: 2100000, guid: c20e81d65e8bcb14396231a5f0751d05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body elects
+    second: {fileID: 2100000, guid: 900679293339dd144a8227c06780a4bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: extra small cy1
+    second: {fileID: 2100000, guid: aa9446e36d7f3524fa0b27170ba6e0f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: extra small cy2
+    second: {fileID: 2100000, guid: 51ac5b13b7fc1c34da7319f00ec1f334, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fing 1
+    second: {fileID: 2100000, guid: 65b9f1d35ec6d154aa188b44d178ddf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fing 1.001
+    second: {fileID: 2100000, guid: 0eefd21ea4fb17047884ebff27370e74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fing 2
+    second: {fileID: 2100000, guid: 628fc5c208e5fb044ade5820dcc9fc60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fing 3
+    second: {fileID: 2100000, guid: a47770cb9ba091f4499b81dfca363c63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fing tip2
+    second: {fileID: 2100000, guid: 05b1248e76a6f2e4f9774a49935d4016, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate
+    second: {fileID: 2100000, guid: 7feb0e58d44aef04585fe7207634432e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate arc
+    second: {fileID: 2100000, guid: 51dc09138d6af7c40bec5006bca9e563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass left eye
+    second: {fileID: 2100000, guid: 4d3a3a141638e034fa2ab3068627577f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass right eye
+    second: {fileID: 2100000, guid: 1e825029b037de54aa0ccdaf52964787, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hand  cy cap
+    second: {fileID: 2100000, guid: ac041b923657c3846b0e31f12351f904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hand  main
+    second: {fileID: 2100000, guid: 84b0df9262d2da44d8fe817ad13929a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hand  main. cyc
+    second: {fileID: 2100000, guid: 0a0c41208189be54bb0b3eb5a473aff4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: legs holders
+    second: {fileID: 2100000, guid: a7adf23432d093f4fb009019cf3cd7e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lower body
+    second: {fileID: 2100000, guid: 1c4cc39148b8dbe43b08cf87d6874d04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lower body frames
+    second: {fileID: 2100000, guid: fe0eec12b063f1346a1b63ed76f2f068, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lower body teeths
+    second: {fileID: 2100000, guid: cf4ebb609311e8942a489da35cf74d56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mall cy
+    second: {fileID: 2100000, guid: 224585758fce62343a001555af56b347, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nails
+    second: {fileID: 2100000, guid: 0e757fdda05759748916deac782e017d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: neck
+    second: {fileID: 2100000, guid: aea2dc134b770fb48bd0a4e28b378e4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red buttton
+    second: {fileID: 2100000, guid: e13531c0655f1c246a844b61b8f982ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rest
+    second: {fileID: 2100000, guid: b1d5cb3cdb60bb7478a9bf246c2e755f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rest extra
+    second: {fileID: 2100000, guid: 4393a79c4e3bed9448880a27eca30286, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rest extra.001
+    second: {fileID: 2100000, guid: f989b3e503d6a6d4f962b254da236cca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: right eye
+    second: {fileID: 2100000, guid: f728616886fcaa242a0f4bf1d217f257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: right eye.002
+    second: {fileID: 2100000, guid: d79637a4fb15f25448affdbe548c0613, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screen
+    second: {fileID: 2100000, guid: 5856399c88f31ce4c9a2e10ab91c1c92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screen.001
+    second: {fileID: 2100000, guid: 93390d6be0946eb47ac950f3a55325f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: upper body
+    second: {fileID: 2100000, guid: 7bcb53629c1e3244f98928cb74967ee5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: upper body doors 2
+    second: {fileID: 2100000, guid: 53396bd74970f794c85547a2022f6070, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: upper body frames
+    second: {fileID: 2100000, guid: 2a3673446fa69ee45a0fd9aa4ccf9bfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: upper body frames2
+    second: {fileID: 2100000, guid: 88ba8aa8007e9c949ad41f74f05c31b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: upper body teeths
+    second: {fileID: 2100000, guid: e01f0b7ef22c0ea4cb08a8fbe50c778a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels inner
+    second: {fileID: 2100000, guid: 03b59dc802a15d348a1c323007cdf9e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels inner.002
+    second: {fileID: 2100000, guid: d310ccc9d28de6642a35b650d12ae140, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

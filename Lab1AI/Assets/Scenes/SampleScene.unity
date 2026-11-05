@@ -686,7 +686,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e684386de7b8f42429ea599ac26c2125, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SeekAndFlee
-  safetyDistance: 5
+  detectionRadius: 10
+  catchDistance: 1.5
+  fleeDistance: 5
 --- !u!1 &1204325234
 GameObject:
   m_ObjectHideFlags: 0
@@ -985,7 +987,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1449328824}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f0038c16c34866b4f9e25c9c0dc0f7e6, type: 3}
   m_Name: 
@@ -1038,12 +1040,30 @@ MonoBehaviour:
   - rid: 2028487964633858909
   - rid: 2028487989060173982
   - rid: 2028487989060173983
+  - rid: 1416758247529382462
+  - rid: 1416758247529382463
   m_OriginalGraph: {fileID: 1353424018031594713, guid: adbcc4e0d03e756459629ba5c14d7b98, type: 2}
   m_IsInitialised: 0
   m_IsStarted: 0
   references:
     version: 2
     RefIds:
+    - rid: 1416758247529382462
+      type: {class: 'BlackboardVariable`1[[System.Single, mscorlib]]', ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 15939587163012722646
+          m_Value1: 14688083172130333817
+        Name: DetectionRadius
+        m_Value: 8
+    - rid: 1416758247529382463
+      type: {class: 'BlackboardVariable`1[[System.Single, mscorlib]]', ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 14559274100687587182
+          m_Value1: 15348705767322858418
+        Name: CatchDistance
+        m_Value: 1.5
     - rid: 2028487964633858442
       type: {class: 'BlackboardVariable`1[[UnityEngine.GameObject, UnityEngine.CoreModule]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
@@ -1122,7 +1142,7 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: -334000983
   m_Radius: 0.5
-  m_Speed: 3.5
+  m_Speed: 8
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 120
